@@ -1,0 +1,41 @@
+Sample Usage
+Input:
+Welcome to Balu's Super Market !
+Enter your name Sir :Suresh
+Press 1 To buy or 2 to Exit:1
+
+Rice  rs 20/kg
+Sugar rs 30/kg
+Salt  rs 20/kg
+Brush rs 20/each piece
+Soap  rs 30/each Bar
+pen   rs 05/each piece
+
+Enter the item  name:rice
+Enter the Quantity:3
+press '1' to buy another item or '2' get bill 1
+
+Rice  rs 20/kg
+Sugar rs 30/kg
+Salt  rs 20/kg
+Brush rs 20/each piece
+Soap  rs 30/each Bar
+pen   rs 05/each piece
+
+Enter the item  name:pen
+Enter the Quantity:3
+press '1' to buy another item or '2' get bill 2
+Output (Terminal):
+
+Bill for John Doe:
+************************* Balu's super market *************************
+---------------------------- Invoice Bill ----------------------------
+customer name: SURESH
+Sno       Item name       Quantity       Price
+---       ---------       --------       -----
+1          rice            3              60
+2          pen             3              15
+Total price : 75
+GST         : 3.75
+Final Price : 78.75
+******************** Thank you for visting us! ********************
