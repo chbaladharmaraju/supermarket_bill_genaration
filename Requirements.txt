@@ -1,0 +1,12 @@
+Requirements
+To run this project, you need the following installed:
+
+Python 3.x
+Required Python Libraries:
+reportlab (for PDF generation)
+pandas (for managing data, optional)
+Install the required libraries using pip:
+
+bash
+Copy code
+pip install reportlab pandas
